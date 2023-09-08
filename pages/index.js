@@ -15,7 +15,7 @@ export default function Home() {
       <main bgcolor="black">
         <Header title="YEAH BOBINHO" />
         <p className="description">
-          YIIPIE <code>pages/index.js</code>
+          YIIPIE
         </p>
       </main>
 
