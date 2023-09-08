@@ -14,6 +14,7 @@ export default function Home() {
     </body>
       <main bgcolor="black">
         <Header title="YEAH BOBINHO" />
+    <input> <button> Enviar
         <p className="description">
           YIIPIE
         </p>
