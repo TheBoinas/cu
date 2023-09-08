@@ -9,7 +9,9 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      <body bgcolor="black">
+    
+    </body>
       <main>
         <Header title="YEAH BOBINHO" />
         <p className="description">
