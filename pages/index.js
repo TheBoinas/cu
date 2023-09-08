@@ -12,10 +12,10 @@ export default function Home() {
       <body bgcolor="black">
     
     </body>
-      <main>
+      <main bgcolor="black">
         <Header title="YEAH BOBINHO" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          YIIPIE <code>pages/index.js</code>
         </p>
       </main>
 
